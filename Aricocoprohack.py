@@ -8,6 +8,6 @@ pkg update
  pip install mechanize
  cd $HOME 
  rm -rf Aricocoprohack
- git clone https://github.com/Sarfraz-Ssb/SSB
+ git clone https://github.com/Aricoco1/Aricocoprohack
  cd Aricocoprohack
  python2 Aricocoprohack.py
